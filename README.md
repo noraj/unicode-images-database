@@ -6,7 +6,7 @@
 
 This is an official repository of [Unicode Attacks](https://next-security-lab.github.io/deep-confusables), as part of a big project containing three more repositories:
 
-  - Unicode Images Database: [https://github.com/next-security-lab/unicodeDB](https://github.com/next-security-lab/unicodeDB)
+  - Unicode Images Database: [https://github.com/next-security-lab/unicode-images-database](https://github.com/next-security-lab/unicode-images-database)
   - deep-confusables-similarity: [https://github.com/next-security-lab/deep-confusables-similarity](https://github.com/next-security-lab/deep-confusables-similarity)
   - deep-confusables-cli: [https://github.com/next-security-lab/deep-confusables](https://github.com/next-security-lab/deep-confusables)
 
